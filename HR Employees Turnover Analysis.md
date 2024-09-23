@@ -5,6 +5,8 @@ The objective of this analysis is to identify the common factors that contribute
 ## Dataset Overview
 The dataset for this analysis consists of 1,000 employee records from an HR Information System (HRIS). Each record includes variables such as Employee ID, Department, Position, Salary, Performance Score, Job Satisfaction Score, Sick Days Taken, Training Hours, Overtime Hours, and Turnover Risk. The dataset provides valuable insights into employee demographics, work performance, and compensation, enabling a detailed exploration of factors affecting turnover.
 
+You can download the raw excel file [here](https://github.com/remy-nguyen-binh/HR-Performance-Salary-Analysis/blob/main/HRIS_HR_Analyst_Dataset.csv)
+
 ## Stakeholder Question
 What are the common factors (e.g., salary, sick days, job satisfaction) among employees with a high turnover risk?
 
